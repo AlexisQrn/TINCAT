@@ -9,6 +9,8 @@
             <input type="password" placeholder="password" name="password">
             <input type="password" placeholder="confirm password" name="password2">
             <input type="submit" value="register">
+
+            
         </form>
     </div>
 </body>
